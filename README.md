@@ -1,0 +1,2 @@
+# Python-odd-even-transposition-parallel
+:smile: Esta é uma implementação do tipo de transposição ímpar-par. Ele funciona realizando uma série de trocas paralelas entre pares ímpares e pares de variáveis na lista. Essa implementação representa cada variável na lista com um processo e cada processo se comunica com seus processos vizinhos na lista para realizar comparações. Eles são sincronizados com bloqueios e passagem de mensagens, mas outras formas de sincronização podem ser usadas.
